@@ -1,5 +1,5 @@
 const config = {
-  apiUrl: 'http://localhost:3000'
+  apiUrl: '/api_kot_yamagishi'
 };
 
 export default config;
